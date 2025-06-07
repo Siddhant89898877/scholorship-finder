@@ -1,1 +1,0 @@
-scholarships_db = [] 
